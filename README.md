@@ -14,7 +14,7 @@ Junior Frontend Developer
 + 🎀 Frontend Junior con pasión por el diseño.
 + 🎨 Figma Avanzado: Desde wireframes hasta prototipos interactivos.
 + 🌈 CSS: Tailwind, Bootstrap y puro CSS3.
-+ 🧠 Enfocada en dominar la lógica de JavaScript (¡pronto seré PRO!).
++ 🧠 Enfocada en dominar la lógica de JavaScript.
 ```
 🛠️ 𝓣𝓮𝓬𝓷𝓸𝓵𝓸𝓰𝓲𝓪𝓼
 ```diff
