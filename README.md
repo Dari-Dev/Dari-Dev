@@ -6,7 +6,7 @@ Junior Frontend Developer
 </h3>
 
 <p align="center">
-  <img src="https://i.giphy.com/92YG8KKSjYhMc.webp" width="200" alt="Kawaii Hello">
+  <img src="https://media.tenor.com/Feo_J4HwNnkAAAAi/cute.gif" width="200" alt="Kawaii Hello">
 </p>
 
 ### **💝 𝓐𝓬𝓮𝓻𝓬𝓪 𝓭𝓮 𝓶𝓲**  
