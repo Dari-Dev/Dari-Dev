@@ -20,9 +20,9 @@ Junior Frontend Developer
 ```diff
 🌷 Vue.js 3 (Options + Composition API)  
 🌸 JavaScript (en progreso)  
-🍑 HTML5 | CSS3 | Sass  
+🍑 HTML5 | CSS3 
 ✨ Tailwind CSS | Bootstrap  
-🍧 Figma (UI/UX avanzado)
+🍧 Figma (UI/UX)
 ```
 📚 𝓔𝓷 𝓯𝓪𝓼𝓮 𝓭𝓮 𝓪𝓹𝓻𝓮𝓷𝓭𝓲𝔃𝓪𝓳𝓮
 ```diff
