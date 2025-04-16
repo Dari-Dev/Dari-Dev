@@ -1,4 +1,4 @@
-🌸✨ Darlyn Guevara ✨🌸
+🌸✨ Darlyn Guevara ✨🌸 <br/>
 Junior Frontend Developer
 
 <h3 align="center"> 
@@ -6,7 +6,7 @@ Junior Frontend Developer
 </h3>
 
 <p align="center">
-<iframe src="https://giphy.com/embed/92YG8KKSjYhMc" width="475" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img src="https://i.giphy.com/92YG8KKSjYhMc.webp" width="200" alt="Kawaii Hello">
 </p>
 
 ### **💝 𝓐𝓬𝓮𝓻𝓬𝓪 𝓭𝓮 𝓶𝓲**  
